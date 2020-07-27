@@ -1,6 +1,6 @@
 # Weather Disaster/Volunteer:
 **Basic Ideas**\
-    - Volunteer for disaster relief
+  - Volunteer for disaster relief
 Information Spread (News Articles etc…)
 Community Forum
 Donations (ECommerce, Link to official site/API)
