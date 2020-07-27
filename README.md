@@ -1,5 +1,5 @@
-Weather Disaster/Volunteer:
-	**Basic Ideas:**
+# Weather Disaster/Volunteer:
+**Basic Ideas**\
     - Volunteer for disaster relief
 Information Spread (News Articles etc…)
 Community Forum
