@@ -24,5 +24,5 @@
    - Create signup/user login
    - Create forums
    - Create methods where users can create form posts, and admins can create news stories/important topics
-#Useful links/guides:
+# Useful links/guides:
  - https://realpython.com/get-started-with-django-1/
