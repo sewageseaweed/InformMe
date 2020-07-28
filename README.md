@@ -17,6 +17,7 @@
 
 # Updates
  ## **July 27, 2019**
+  ### Completed: 
   - Created a basic page, with navbar
   - Created a test post and able to acess information by clikcing on page
   ### To Do: 
