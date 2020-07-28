@@ -14,3 +14,12 @@
   - API’s
   - Website → App
   - Python backend
+
+# Updates
+ ## **July 27, 2019**
+  - Created a basic page, with navbar
+  - Created a test post and able to acess information by clikcing on page
+  ### ** To do **
+   - Create signup/user login
+   - Create forums
+   - Create methods where users can create form posts, and admins can create news stories/important topics
