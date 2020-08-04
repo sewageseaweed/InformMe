@@ -11,7 +11,7 @@
    
  ## **Technologies:**
   - Database → Mongodb or SQL
-  - API’s
+  - API’s: https://www.programmableweb.com/category/charity/api, https://orghunter.com/, http://charityapi.orghunter.com/, https://developers.google.com/maps/documentation/embed/get-api-key, https://developers.google.com/identity/sign-in/web/sign-in
   - Website → App
   - Python backend
 
@@ -26,3 +26,4 @@
    - Create methods where users can create form posts, and admins can create news stories/important topics
 # Useful links/guides:
  - https://realpython.com/get-started-with-django-1/
+ - https://djangocentral.com/building-a-blog-application-with-django/
